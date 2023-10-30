@@ -4,8 +4,8 @@ title: Master's Thesis
 description: Using TDA to analyze microscopic images.
 img: assets/img/graph.png
 redirect: 
-importance: 3
-category: study
+importance: 5
+category: work
 related_publications: FengerEriksen2020, 2023fibrin
 ---
 

@@ -3,8 +3,8 @@ layout: page
 title: Bachelor's Thesis
 description: Dimension splitting combined with Chebyshev tensor approximation.
 img: assets/img/order_plot.png
-importance: 4
-category: study
+importance: 6
+category: work
 ---
 [Bachelor's Thesis - Dimension splitting combined with Chebyshev tensor approximation (German)]({{ site.url }}/assets/pdf/bachelorthesis.pdf)
 

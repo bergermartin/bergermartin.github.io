@@ -3,7 +3,7 @@ layout: page
 title: TDA
 description: A short introduction to topological data analysis for non-mathematicians.
 img: assets/img/complex.png
-importance: 2
+importance: 3
 category: work
 giscus_comments: false
 ---

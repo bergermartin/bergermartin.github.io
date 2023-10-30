@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here you find some of my publicly available projects, including lecture notes and slides.
 nav: true
 nav_order: 2
-display_categories: [work, study]
+display_categories: [work]
 horizontal: false
 ---
 
