@@ -8,7 +8,7 @@ category: work
 related_publications: berger2023operator
 ---
 
-[Slides - Abstract Operator Systems over the Cone of Positive Semidefinite Matrices]({{ site.url }}/assets/pdf/os_spec.pdf)
+[Slides - Abstract Operator Systems over the Cone of Positive Semidefinite Matrices]({{ site.url }}/assets/pdf/spec_os.pdf)
 
 In 2022 I gave a talk about our paper [Abstract Operator Systems over the Cone of Positive Semidefinite Matrices](https://arxiv.org/abs/2109.14453)
 
