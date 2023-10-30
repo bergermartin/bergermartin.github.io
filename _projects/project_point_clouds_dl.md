@@ -2,7 +2,7 @@
 layout: page
 title: Point Clouds and Deep Learning
 description: Talk at the M.Sc. Data Science Programm.
-img: assets/img/point_cloud.png
+img: assets/img/point_cloud.png { max-width: 20%; }
 importance: 2
 category: work
 related_publications: 2022clusterbased
