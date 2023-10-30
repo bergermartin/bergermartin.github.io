@@ -2,19 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Mathematician | Data Scientist | Freelancer 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi! My name is Martin and I am a mathematician from Austria, currently working as a freelance data scientist.
+
+With a Ph.D. in algebra and a rich academic background, I have found a deep appreciation for the elegance and power of mathematical concepts. 
+
+However, my journey extends beyond theoretical research. Throughout my professional career, I took on a wide spectrum of interdisciplinary roles, like machine learning scientist within an architecture project or applied scientist where I developed a pipeline for the analysis of microscopic images.
+
+Furthermore I have over 9 years of experience as university lecturer throughout all branches of mathematics. This included teaching students from various backgrounds, including mathematicians, future teachers, computer scientists or industry professionals.
+
+This diverse experience has equipped me with a versatile skill set, allowing me to tackle a wide array of projects and drive innovative and impactful solutions through analytical thinking and the ability to communicate mathematical concepts effectively.
+
+I thrive on engaging in conversations and exchanging ideas. Feel free to get in touch via mail or LinkedIn.
