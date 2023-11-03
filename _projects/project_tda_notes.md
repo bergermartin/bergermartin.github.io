@@ -1,7 +1,7 @@
 ---
 layout: page
-title: TDA
-description: A short introduction to topological data analysis for non-mathematicians.
+title: introduction to tda
+description: topological data analysis
 img: assets/img/complex.png
 importance: 3
 category: work

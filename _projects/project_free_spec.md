@@ -2,7 +2,7 @@
 layout: page
 title: Abstract Operator Systems and Spectrahedra
 description: Research Talk.
-img: 
+img: assets/img/matrix_inequ.png
 importance: 4
 category: work
 related_publications: berger2023operator
