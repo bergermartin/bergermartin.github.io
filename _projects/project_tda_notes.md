@@ -16,9 +16,9 @@ My notes provide an introduction into this exciting modern field of mathematics,
 
 The topics include filtrations, persistence diagrams, Wasserstein distances, silhouettes and clustering methods as well as a discussion on how these methods can be applied to analyze grayscale images.
 
-Throghout, each section comes with several examples to grasp the ideas behind the definitions and furthermore the notes provide an introduction into the ```R``` package [```TDA```](https://cran.r-project.org/web/packages/TDA/index.html) for more details.
+Throghout, each section comes with several examples to grasp the ideas behind the definitions and programming examples in  ```R``` using the [```TDA```](https://cran.r-project.org/web/packages/TDA/index.html) package.
 
-For a bit more sophisticated introduction, check my [master's thesis]({% link _projects/project_master_thesis.md %}). 
+For a bit more sophisticated introduction and more related references, check my [master's thesis]({% link _projects/project_master_thesis.md %}). 
 
 If you are interested in a mathematical rigorous introduction into the beautiful field of algebraic topology - the underlying theory of topological data analysis - then I can highly recommend Rotman's book [An Introduction to Algebraic Topology](https://link.springer.com/book/10.1007/978-1-4612-4576-6).
 

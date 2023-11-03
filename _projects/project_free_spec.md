@@ -10,9 +10,9 @@ related_publications: berger2023operator
 
 [Slides - Abstract Operator Systems over the Cone of Positive Semidefinite Matrices]({{ site.url }}/assets/pdf/spec_os.pdf)
 
-In 2022 I gave a talk about our paper [Abstract Operator Systems over the Cone of Positive Semidefinite Matrices](https://arxiv.org/abs/2109.14453)
+In 2022 I gave a talk about our paper [Abstract Operator Systems over the Cone of Positive Semidefinite Matrices](https://arxiv.org/abs/2109.14453).
 
-I discussed the definitions of abstract operator systems and their concrete realization and the notion of free spectrahedra and how they relate too each other. Then I presented our results regarding the operator systems over the cone of positive semidefinite matrices.
+I discussed the definitions of abstract operator systems and their concrete realization and the notion of free spectrahedra, how they relate too each other and which admit a representation as a free spectrahedron.
 
 <div class="row text-center">
     <div class="col-sm mt-3 mt-md-0">
