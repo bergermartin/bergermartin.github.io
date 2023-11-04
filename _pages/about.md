@@ -21,7 +21,7 @@ With a Ph.D. in algebra and a rich academic background, I have found a deep appr
 
 However, my journey extends beyond theoretical research. Throughout my professional career, I took on a wide spectrum of interdisciplinary roles, like machine learning scientist within an architecture project or applied scientist where I developed a pipeline for the analysis of microscopic images.
 
-Furthermore I have over 9 years of experience as university lecturer throughout all branches of mathematics. This includes teaching students from various backgrounds, including mathematicians, future teachers, computer scientists or industry professionals.
+Furthermore, I have over nine years of experience as university lecturer throughout all branches of mathematics. This includes teaching students from various backgrounds, including mathematicians, future teachers, computer scientists or industry professionals.
 
 My diverse experience has equipped me with a versatile skill set, enabling me to tackle a wide range of projects. I can drive innovative and impactful solutions through analytical thinking and the ability to communicate mathematical concepts effectively.
 
