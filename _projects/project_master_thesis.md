@@ -9,7 +9,7 @@ category: work
 related_publications: FengerEriksen2020, 2023fibrin
 ---
 
-[Master's Thesis - An Application of Topological Data Analysis to Fibrin Networks]({{ site.url }}/assets/pdf/intro_tda.pdf)
+[Master's Thesis - An Application of Topological Data Analysis to Fibrin Networks]({{ site.url }}/assets/pdf/masterthesis.pdf)
 
 Topological data analysis (TDA) combines statistical inference methods with algebraic topology, allowing to identity the geometric structure within a dataset.
 
